@@ -3,9 +3,6 @@
 
 🌟An Aspiring Junior Front End Developer 🚀 | Passionate about crafting immersive digital experiences 🎨 | HTML, CSS, JavaScript Enthusiast 🖥️ | Lifelong Learner 📚
 
-🔭 About Me
-I'm a dedicated and creative junior front end developer with a keen eye for design and a love for turning ideas into captivating web interfaces. My journey into the world of web development started with tinkering around with basic HTML and CSS, and it's been an exhilarating ride ever since. I thrive on the challenge of solving coding puzzles and bringing visual concepts to life through code.
-
 🛠️ Skills
 Languages: HTML5, CSS, JavaScript, Python, SQL
 Frameworks: Bootstrap, jQuery
