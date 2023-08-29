@@ -14,8 +14,5 @@ When I'm not coding, you can find me sketching out interface ideas, experimentin
 
 🌍 Connect with Me
 I'm always excited to connect with fellow developers, designers, and tech enthusiasts. Feel free to reach out to me on LinkedIn <a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/christian-meintjes98?trk=profile-badge">Christian Meintjes</a></div>. Let's collaborate, learn, and grow together in the ever-evolving realm of web development!
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-              
-              
 Looking forward to the journey ahead
